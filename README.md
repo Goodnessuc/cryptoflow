@@ -1,3 +1,3 @@
-# blockchain-flow
+# crypto-flow
 
-blockchain-flow tracks your interactions on the dApps of specified blockchains
+crypto-flow tracks your interactions on the dApps of specified blockchains
